@@ -1,0 +1,54 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+.head{
+    background-color: rgb(131, 215, 7);
+    text-align: center;
+    height: 130px;
+}
+h1{
+    text-align: center;
+    padding: 50px 30px 50px 30px;
+    color: rgb(255, 255, 255);
+}
+h2{
+    margin: 30px;
+}
+.para1{
+    margin: 30px;
+}
+.image{
+    margin-left:30px;
+}
+.para2{
+    margin:10px
+}
+.para3{
+    margin: 20px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.button{
+    border: none;
+    margin: 10px;
+    width: 250px;
+    height: 40px;
+    border-radius: 3px;
+    background-color: rgb(132, 208, 18);
+    color: rgb(255, 255, 255);
+    font-size: large;
+}
+.para4{
+    margin: 20px;
+}
+.foot{
+    margin: 20px;
+}
